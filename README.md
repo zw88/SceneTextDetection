@@ -1,2 +1,2 @@
 # SceneTextDetection
-Some detection results of ICDAR dataset
+Some text detection results of images in ICDAR dataset
